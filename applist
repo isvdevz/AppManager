@@ -1,0 +1,9 @@
+{  
+    "Message": "This app has been disabled by Developer due to some issue so until then you won't be able to use this app please contact developer isvbuild2020@gmail.com or the vpn owner. Thank you.",
+ 
+    "app.isv.isv.vpn": false,
+    "app.isv.itunnel.vpn.plus": false,
+    "ProxyLiteSSH": false, 
+    "CrownVPN": false, 
+    "TapSSH": false
+)
